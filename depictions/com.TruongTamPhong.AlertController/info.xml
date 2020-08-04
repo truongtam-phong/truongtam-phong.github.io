@@ -1,0 +1,46 @@
+<package>
+	<id>com.TruongTamPhong.AlertController</id>
+	<name>Trương Tam Phong</name>
+	<version>1.3.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Thay đổi UX và UI giao diện của Cảnh báo và Nhóm bảng</description>
+		<description>Hiển thịt nút nhấn theo chiều dọc</description>
+		<description>Ẩn nút Huỷ</description>
+		<description>Thay đổi vị trí và nhóm bảng</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>AlertController0.png</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>AlertController1.png</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>AlertController2.png</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>AlertController3.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Đã sửa lỗi tinh chỉnh không hoạt động với một số ứng dụng</change>
+        <change>Sửa lỗi khi chỉnh sửa bị vô hiệu hóa và Kiểu UI được đặt thành Màu văn bản tối trong Cảnh báo vẫn được đặt thành màu trắng</change>
+		<change>Thay đổi thứ tự của một số tùy chọn ưu tiên</change>
+		<change>Thêm hiển thị biểu tượng</change>
+		<change>Thêm góc vuông</change>
+		<change>Thêm loại bỏ đường kẻ phân cách</change>
+	</changelog>
+	<links></links>
+</package>

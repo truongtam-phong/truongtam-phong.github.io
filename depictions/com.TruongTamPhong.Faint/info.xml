@@ -1,0 +1,29 @@
+<package>
+	<id>com.TruongTamPhong.Faint</id>
+	<name>Trương Tam Phong</name>
+	<version>1.0.2-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tiện ích hiển thị thời gian cùng lịch</description>
+		<description>Hoạt động trên Màn hình chính và Màn hình khoá</description>
+		<description>Yêu cầu cài Xen HTML để sử dụng</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>Faint.png</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+	<change>Thêm đổ bóng cho Thứ</change>
+	<change>Thêm chỉnh Tỷ lệ vào cài đặt</change>
+	</changelog>
+	<links></links>
+</package>
