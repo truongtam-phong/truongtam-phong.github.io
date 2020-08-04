@@ -1,0 +1,30 @@
+<package>
+	<id>com.TruongTamPhong.LaetusVietNam</id>
+	<name>Trương Tam Phong</name>
+	<version>3.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Thay đổi màu nền,màu chữ, chèn ảnh, v.v cho bàn phím của bạn</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>LaetusVietNam1.png</image>
+        </screenshot>
+        <screenshot>
+            <description></description>
+            <image>LaetusVietNam2.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Hỗ trợ iOS 13</change>
+	</changelog>
+	<links></links>
+</package>
