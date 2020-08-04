@@ -243,3 +243,19 @@ Depiction: http://truongtam-phong.github.io/depictions?p=com.TruongTamPhong.Apri
 SileoDepiction: http://truongtam-phong.github.io/depictions?p=com.TruongTamPhong.AprilVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
+Package: com.TruongTamPhong.Ybht
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.Ybht_1.0.1_iphoneos-arm.deb
+Size: 44588
+MD5sum: 4c95e814ee5319c842725e9f62533d68
+SHA1: 5a761bf703005ab423f766802cd045f04649a3da
+SHA256: c78339906d25ede46b7a6d29b18e7fd6d3b36cdcb30a6cddac8a3d034916adfd
+SHA512: 275acf5dbba433e7a586dd7cb8f36d4100484993fc1e3a26e138f5e3e03d4428bc666b4f376476e6cd81121fce7114cafffa93aba428cee029fb5eb23606e93a
+Description: Widget for Xen HTML
+Name: Ybht
+Author: JunesiPhone
+Depiction: http://truongtam-phong.github.io/description.html?id=com.TruongTamPhong.Ybht
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
