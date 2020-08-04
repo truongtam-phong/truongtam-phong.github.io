@@ -1,0 +1,11 @@
+Origin: Trương Tam Phong
+Label: Trương Tam Phong
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: Trương Tam Phong
+MD5Sum:
+ 8ad6b81dd88755006ae64d27bf9d5ffb 14083 Packages
+ e571d9ca50e600175bcab546c7ee2cb7 4077 Packages.bz2
