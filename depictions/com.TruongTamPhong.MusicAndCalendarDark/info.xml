@@ -1,0 +1,28 @@
+<package>
+	<id>com.TruongTamPhong.MusicAndCalendarDark</id>
+	<name>Trương Tam Phong</name>
+	<version>1.0.7</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tiện ích hiển thị Âm nhạc và Lịch tháng hoạt động trên Màn hình chính</description>
+		<description>Tương thích với iPhone Xr, iPhone Xs Max, iPhone 11 Pro và iPhone 11 Pro Max</description>
+		<description>Yêu cầu cài Xen HTML để sử dụng</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>MusicAndCalendarDark.png</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+        <change>Hỗ trợ từ iPhone 6 tới iPhone 11 Pro Max</change>
+	</changelog>
+	<links></links>
+</package>

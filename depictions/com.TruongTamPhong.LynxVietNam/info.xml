@@ -1,0 +1,26 @@
+<package>
+	<id>com.TruongTamPhong.LynxVietNam</id>
+	<name>Trương Tam Phong</name>
+	<version>1.5.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+                         <maxiOS>13.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tinh chỉnh này ẩn mọi thứ cho toàn hệ thống, ứng dụng bên thứ ba. Và thêm nhiều chức năng tuyệt vời khác</description>
+	</descriptionlist>
+	<changelog>
+<change>Sửa lỗi các tùy chọn 3D Touch không hoạt động</change>
+	</changelog>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>Lynx.png</image>
+        </screenshot>	
+    </screenshots>
+	<links></links>
+</package>
