@@ -243,6 +243,278 @@ Depiction: http://truongtam-phong.github.io/depictions?p=com.TruongTamPhong.Apri
 SileoDepiction: http://truongtam-phong.github.io/depictions?p=com.TruongTamPhong.AprilVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
+Package: com.TruongTamPhong.ArcTtp
+Architecture: iphoneos-arm
+Version: 2.0.0
+Section: Widget động
+Filename: ./debfiles/com.TruongTamPhong.ArcTtp_2.0.0_iphoneos-arm.deb
+Size: 866396
+MD5sum: e638df855a04ec2ddffaa1c4f4e7a14e
+SHA1: c1df246e2e9efa174b40bbd66b33ad8976b399b0
+SHA256: 1117557db410cd12ec192e03d56d384c573ea331f907c9499a1f0c646a4dc2c6
+SHA512: d8b7631b2f7cc5abbe0b5430556eaa0b5d7727c77fade1ce2c0a381dd69078718ba0fb6c3a9812ab015e5715d8a92ee70cb1f311fa5deb27e9d2af00d940740e
+Description: Widget for Xen HTML
+Name: ArcTtp
+Author: Trương Tam Phong
+Depiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.ArcTtp
+SileoDepiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.ArcTtp
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.BlurTransV1
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.BlurTransV1_1.0.1_iphoneos-arm.deb
+Size: 1335980
+MD5sum: 9018dadf093ace3eae674701608b6b87
+SHA1: 6df34bdcd0f151fafe7339c0f079341359b24a08
+SHA256: 5da7d7dc629f46f241e321a3639ec01021be403e2252aa4727f4241fde63c1d9
+SHA512: d33545dd3276b5e46372c40fca89f977e1863245f7f7a306cae4d3ca776c99ab1af1adc9b39c07d48eff058b82b866dc7c53a91a1896d9bcba974ac30a2a0781
+Description: Widget for Xen Html
+Name: BlurTrans V1
+Author: Ata Ra Shi
+Depiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.BlurTransV1
+SileoDepiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.BlurTransV1
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.BoCongAnh
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget động
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.BoCongAnh_1.0.0_iphoneos-arm.deb
+Size: 413804
+MD5sum: 111bd22911e44fe6a428fb4cb6af6da2
+SHA1: 975e650c40e0b1babeb05182494143a1e97e2306
+SHA256: 42858b1a92c5f391f4127cf1636be7528b5135ea93a9d944ca0d522c7d86dd9a
+SHA512: 212978a24ba2513fa7651f2b10e034a0ff07bd2581f4fb3d2647f1911a20a1a2efd588659a236925462a7d04206a686584f7b75118a3a2b2d15ec5ba13e8c124
+Description: Widget for Xen HTML
+Name: Bồ Công Anh
+Author: Kênh Táo
+Depiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.BoCongAnh
+SileoDepiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.BoCongAnh
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.BorderV1
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.BorderV1_1.0.0_iphoneos-arm.deb
+Size: 2000
+MD5sum: fca9f6827238987a04c7736f50119ad0
+SHA1: 956532b8aa9e747079f4d23b1b0fc09266ca00b2
+SHA256: e0670544f3f57b5211000a6cfe01cce926f370a3a3f8c214a893119c7e3e8172
+SHA512: 87b70df7d45c509257d530c19a88eca68add35fbe07845b6d4534016e3beacd17b118f484b3d4a4c7a0eff180fd91889097add1ec072d9880518719bc230c64e
+Description: Widget for Xen Html
+Name: BorderV1
+Author: Trương Tam Phong
+Depiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.BorderV1
+SileoDepiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.BorderV1
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.Bubble13
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Fonts
+Filename: ./debfiles/com.TruongTamPhong.Bubble13_1.0.0_iphoneos-arm.deb
+Size: 29383238
+MD5sum: c5c7f72b42043867e513125fabbee259
+SHA1: d3e92ef16a33b91623b99a66798dbb66658ad5fe
+SHA256: 92b0e0d01a8a448b177266c27a50c7d14d772b45f3cb57213b57a97379f09e10
+SHA512: 7469a0983dcc2e6b2341c721bb0fd703f32ba84944afbecaf744ddda655602cb9e56c0441fcc1e9ad4cef99e9c0cb4e6974c43396d4428019cc163db059b963d
+Description: Gói Font chữ dành cho SnowBoard và iThemer
+Name: Bubble (iOS13)
+Author: Alex
+Depiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.Bubble13
+SileoDepiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.Bubble13
+
+Package: com.TruongTamPhong.CPUToolVietNam
+Architecture: iphoneos-arm
+Version: 1.8
+Section: Tweaks
+Depends: jp.soh.ct
+Filename: ./debfiles/com.TruongTamPhong.CPUToolVietNam_1.8_iphoneos-arm.deb
+Size: 2232
+MD5sum: 7b36ea4521b599e516f2148f1ecb014f
+SHA1: 23432549c8cefe8dced9878ad02a748e2b2d0549
+SHA256: ff6f9df62b8921ba8d0d9cf3b49fbe17258192a02aacebb83195947c3fc0d5a7
+SHA512: b6d755bdd7a8f350dff6910a2dbabc22629e150500797ec0f6e7301d6c529732fe94d58b3094ff964f5525928be0057a6c390768710929d6f37f6976520bf70c
+Description: Gói tiếng việt dành cho CPUTool
+Name: CPUTool (Gói tiếng Việt)
+Author: Trương Tam Phong
+Depiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.CPUToolVietNam
+SileoDepiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.CPUToolVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.CalendaText
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.CalendaText_1.0.0_iphoneos-arm.deb
+Size: 143382
+MD5sum: e9b9929eb29c4aa9a998a136a9a7cc15
+SHA1: 7ee9c039d8a918349aea37eaee82c77a46d0e1ec
+SHA256: e72dfc02bab93744014f9474c9efc7fdd52c75bbf90064afa031d0727eb622dc
+SHA512: 68d9a4c7aae397a796e0773f430e06926ad66c59985e5d418bb440f76742c6d483c8701599dd0b0584a62ad9dfcfbbdbf4f7fddfab7ce0989d3dc043a420e026
+Description: Widget for Xen HTML
+Name: Calenda Text
+Author: JunesiPhone
+Depiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.CalendaText
+SileoDepiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.CalendaText
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.Carbon
+Architecture: iphoneos-arm
+Version: 287
+Section: Themes
+Filename: ./debfiles/com.TruongTamPhong.Carbon_287_iphoneos-arm.deb
+Size: 24250516
+MD5sum: 83dd27ba889df1923f89da96a5078d9b
+SHA1: 374c1d1616e94c49cb0eb57f77fcded0aa2e2229
+SHA256: d3159c76add324139e080ec23b6de1ef52a441d55851990cec91db869e57dab3
+SHA512: d020a7cc78602928f12dbe97e6d699f4872c32c46557ca0aee33a3d57779e8700ce40a52d4059ec19b40c6f4448353decc02de34c648b3bfbe7962000137a141
+Description: Chủ đề xám tuyệt vời dành cho bạn!
+Name: Carbon
+Author: TTP + Nyk0n
+Depiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.Carbon
+SileoDepiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.Carbon
+Icon: file:///Applications/Cydia.app/Sections/Themes1.png
+
+Package: com.TruongTamPhong.Circle
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Widget động
+Filename: ./debfiles/com.TruongTamPhong.Circle_1.1.0_iphoneos-arm.deb
+Size: 4278
+MD5sum: 1785eb13357169d8d6277721fe4848d9
+SHA1: 2c4d0488937fae41243049ded4a6f5eda470a355
+SHA256: 4c6a28f22425d2d6c854c931d7a3a1c8b6c3befa8f9dbbad61865719b32a9e68
+SHA512: db2bcc9fcb22ac99ac14be39b5f39a563f363ad153a2409ef0ba8762a0b9d7a71dfa62474c46df7ddd961bab90dbf7ed90342d4e068517f443faab75e62d5ea0
+Description: Widget for Xen Html
+Name: Circle
+Author: Trương Tam Phong
+Depiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.Circle
+SileoDepiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.Circle
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.CleanFunWhiteRed
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.CleanFunWhiteRed_1.0.0_iphoneos-arm.deb
+Size: 407182
+MD5sum: bb9f24a4022ece08a761b95ebad3a0b2
+SHA1: 78138686c80036c70a509f93a705a9d87f36ed03
+SHA256: 55be7405fdef998260a11b4ed8985f84b93186f381b8330e3155f5b4dd6ba870
+SHA512: 4b971c18788e02a98dcac0c162d3d8b2bd2a01b141c66b3d2073facba3a789de472b8d5f24e0940b89312bed5acf64b3bd0f3e938428964e32766d0e1d3e02c3
+Description: Widget for Xen HTML
+Name: CleanFun White Red
+Author: JunesiPhone
+Depiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.CleanFunWhiteRed
+SileoDepiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.CleanFunWhiteRed
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.ClockBelle
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.ClockBelle_1.0.0_iphoneos-arm.deb
+Size: 112470
+MD5sum: d0b87df9b0922c189e9297c63ee54237
+SHA1: 2ea87c1377e72936e79d99cfdbb41f55eda80f58
+SHA256: a3c400504a603cfb7e49a86ab940efb600f2f5113a3b79f269eaf738d616aa27
+SHA512: d748b5a0849173f5a6c7d4df8756e7bceebace4fc88bf068d153f52d05a1c283156ae284b1eb3d4f1bbb96fe31ce93182ad30e7304c805bce0f01b33b6617684
+Description: Widget for Xen Html
+Name: Clock Belle
+Author: Trương Tam Phong
+Depiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.ClockBelle
+SileoDepiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.ClockBelle
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.ClockDeaultSmall
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.ClockDeaultSmall_1.0.0_iphoneos-arm.deb
+Size: 88252
+MD5sum: f76e5b7923a65b76fd164ff2210db3da
+SHA1: bf1d471986a65dd5bf20396f4a72c1e525ca617d
+SHA256: 088657540df5e23e915066a17583356b902fb26238174adb59cd71cc6ebda100
+SHA512: 0713fbb01f72cbf7f07726dba9a8728b20517743b95156c12bd0577b3b0d891155cd126de1ab83e1b6c39a7fa3a1960184d3d2aadeff69779ea8e86a6ad889fb
+Description: Widget for Xen Html
+Name: Clock Deault Small
+Author: Trương Tam Phong
+Depiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.ClockDeaultSmall
+SileoDepiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.ClockDeaultSmall
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.ClockDefaultDark
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.ClockDefaultDark_1.0.0_iphoneos-arm.deb
+Size: 249334
+MD5sum: a7e143adbe453e663b36723383b2e946
+SHA1: 23f7e730b159312d5bbd9bc38fe7bfc1c9f4100d
+SHA256: 31cacc296d1b141be7c497ab5c590ee2e60c9a1079fdbb1f66c20909442ad30e
+SHA512: f99f1d3128f348e5fa54853faf310cdedf1360a3066a98471f217864f036ec27a2e4f56502482cabb468a65225649908a7b02924efb64b3cc3e3dd488625e8d4
+Description: Widget for Xen HTML
+Name: Clock Default Dark
+Author: Trương Tam Phong
+Depiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.ClockDefaultDark
+SileoDepiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.ClockDefaultDark
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.ClockTransparent
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.ClockTransparent_1.0.0_iphoneos-arm.deb
+Size: 223948
+MD5sum: 0790e3649bf9d81a2865bc806e083ef3
+SHA1: 1482830c3ecfdcaed0cb980bb4e55d9ca69d6bbb
+SHA256: 80cdb582865701eb944a87bb1787ec9e9d8aee3c6e266a47db79f074b22ff9ce
+SHA512: 8a5a67b920a080389259e14eaf94904b6364fe165def82663c8785942496855e4844971e4ebd70a817fd3ecf49b6767bba1f755bc496de37a2689fd032495553
+Description: Widget for Xen HTML
+Name: Clock Transparent
+Author: JunesiPhone
+Depiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.ClockTransparent
+SileoDepiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.ClockTransparent
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.Colorido
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget động
+Filename: ./debfiles/com.TruongTamPhong.Colorido_1.0.0_iphoneos-arm.deb
+Size: 5593292
+MD5sum: 35e0b9cb09b58810c2a3e3a12d31ca34
+SHA1: 1414e5814078b2f71e3822c65c3b9ffb594f0804
+SHA256: 2557bc495829a93cd9d1f524bc8b6d9a1704a0fc8c6dd106bd2313e6765fc2b6
+SHA512: 1c807254284f794b609f22aa3e5dd1b890dc81f83c6dfc9839d4bed14de8c1cedc93a76f562a44ff92455c8a296cb611ce1090ea0b4a0024951e621cc24b4af7
+Description: Widget for Xen HTML
+Name: Colorido
+Author: wrussell1989
+Depiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.Colorido
+SileoDepiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.Colorido
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.ConteSans13
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Fonts
+Filename: ./debfiles/com.TruongTamPhong.ConteSans13_1.1.0_iphoneos-arm.deb
+Size: 7803510
+MD5sum: da7ea27bdeb88ca36659a17e74ab188d
+SHA1: 9096c31e29681cbcb246cbd1e42b10fcc37c6607
+SHA256: 790bc302fd2044dbc12362b7532b4be3b21fd9be9ae79065fade377d943d639d
+SHA512: 0bda3051b8f2361187819f60ff144849a3d79d9fc38270ae44c35686f1c6753532b9077a2a227417a3d300ceabdf09272b621b2cdbaf5da478fecbad4a134999
+Description: Gói Font chữ dành cho SnowBoard và iThemer
+Name: Conte Sans (iOS13)
+Author: Evelyn
+Depiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.ConteSans13
+SileoDepiction: http://truongtam-phong.io/depictions?p=com.TruongTamPhong.ConteSans13
+
 Package: com.TruongTamPhong.Ybht
 Architecture: iphoneos-arm
 Version: 1.0.1
